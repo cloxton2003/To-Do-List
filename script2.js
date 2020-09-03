@@ -30,8 +30,3 @@ list.onclick = elementClicked = (x) => {
    	let y = x.target;
     y.classList.toggle("done");
 } 
-
-delBtn = () => {
-	alert("damn");
-}
-
